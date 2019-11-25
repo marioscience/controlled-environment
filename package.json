@@ -1,0 +1,14 @@
+{
+  "name": "controlled-fucking-environment",
+  "version": "1.0.0",
+  "description": "Controlled environment to check if html-pdf newer version renders pdf correctly. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run html-pdf test.html test.pdf"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-pdf": "^2.2.0"
+  }
+}
